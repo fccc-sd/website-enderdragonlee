@@ -2,19 +2,27 @@
         color:yellow; 
         text-Align: center;
          background-color:black;
-         font: blod 2.5em/3em italic Arial, sans-
-         
+         font: bold 2.5em/3em 'times New romans', small-caps;       
          font-size: 2.5em; 
          line-height: 2em;
          font-style: italic; 
 }
-
     h2{
         color:yellow;
         background-color: black;
         font-size: 1.5em;  
          font-style: italic; 
-
+}
+    h3{
+        color:yellow;
+        background-color:black;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 1.1em;
+}
+    h6{
+        color:yellow;
+        background-color:black; 
+        font-family: 'Times New Roman', Times, serif;       
 }
     h1,
     h2,
@@ -23,8 +31,9 @@
     h5,
     h6{
         font-family:'Times New Roman', Times, serif;  
-         font-style: italic; 
-
+        font-weight: italic;
+        color:yellow;
+        background-color: black; 
 }
     body{
         background-color:rgb(34, 34, 255); 
@@ -36,23 +45,49 @@
         color:white;
         font-family:'Times New Roman', Times, serif;
          font-size: 1.1em;  
-          
-
-
 }
     ul{
-        color:gray;
         font-family:'Times New Roman', Times, serif;
         font-size: 1.1em;  
         font-weight: bold;
         background-color:magenta;
-
 }
     Ol{
-        color:gray;
         font-family:'Times New Roman', Times, serif;
         font-size: 1.1em;  
         font-weight: bold;
         background-color:magenta;
-
+}
+    #thankssection{
+        color: gray;
+         font-family:'Times New Roman', Times, serif;
+}
+    #myhobbies{
+        color:lightgray;
+         font-family:'Times New Roman', Times, serif;
+}
+    .myhobies{
+        color: white;
+        font-family:'Times New Roman', Times, serif;
+}
+    header{
+        font-weight: italic;
+        color:yellow;
+        background-color: black; 
+        font-family:'Times New Roman', Times, serif;
+}
+    main{
+        font-weight: italic;
+        color:yellow;  
+         font-family:'Times New Roman', Times, serif;         
+}
+    footer{
+        font-weight: italic;
+        color:yellow;
+        background-color: black;
+        font-family:'Times New Roman', Times, serif; 
+}
+    article{
+        font-weight: italic;
+        font-family:'Times New Roman', Times, serif;
 }
