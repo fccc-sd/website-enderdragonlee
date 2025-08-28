@@ -1,7 +1,7 @@
     h1{
         color:yellow; 
+        background-color:black;
         text-Align: center;
-         background-color:black;
          font: bold 2.5em/3em 'times New romans', small-caps;       
          font-size: 2.5em; 
          line-height: 2em;
@@ -51,12 +51,15 @@
         font-size: 1.1em;  
         font-weight: bold;
         background-color:magenta;
+        list-style-type:circle;
+        list-style-position:outsides;
 }
     Ol{
         font-family:'Times New Roman', Times, serif;
-        font-size: 1.1em;  
+        font-size: 1.1em;   
         font-weight: bold;
         background-color:magenta;
+        list-style-type:upper-roman;
 }
     #thankssection{
         color: gray;
@@ -90,4 +93,7 @@
     article{
         font-weight: italic;
         font-family:'Times New Roman', Times, serif;
+}
+img{
+   vertical-align: middle;
 }
